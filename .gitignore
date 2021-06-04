@@ -1,0 +1,9 @@
+venv/
+*.png
+*.csv
+*.joblib
+build/
+dist/
+ngocbienml.egg-info/
+picture/
+data searchCV/
